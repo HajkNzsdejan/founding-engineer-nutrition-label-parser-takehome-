@@ -1,0 +1,91 @@
+product_image,product_name,nutrient_name_raw,nutrient_name_standard,amount,unit,serving_size,daily_value_pct
+product_01.png,MindGuard - Nootropic Brain Formula,Vitamin B12,vitamin_b12,1000,µg,2 Capsules,40000
+product_01.png,MindGuard - Nootropic Brain Formula,Vitamin D3,vitamin_d,50,µg,2 Capsules,1000
+product_01.png,MindGuard - Nootropic Brain Formula,Lion's Mane,lions_mane,600,mg,2 Capsules,
+product_01.png,MindGuard - Nootropic Brain Formula,Ashwagandha,ashwagandha,300,mg,2 Capsules,
+product_01.png,MindGuard - Nootropic Brain Formula,L-Theanine,l_theanine,150,mg,2 Capsules,
+product_01.png,MindGuard - Nootropic Brain Formula,Bacopa,bacopa,200,mg,2 Capsules,
+product_01.png,MindGuard - Nootropic Brain Formula,Guarana,guarana,100,mg,2 Capsules,
+product_03.png,,Shiitake Mushroom,shiitake_mushroom,103,mg,1.5ml,
+product_03.png,,Maitake Mushroom,maitake_mushroom,94,mg,1.5ml,
+product_03.png,,Elderberry,elderberry,94,mg,1.5ml,
+product_03.png,,Ginger,ginger,50,mg,1.5ml,
+product_03.png,,Thyme,thyme,47,mg,1.5ml,
+product_03.png,,Vitamin C,vitamin_c,75,mg,1.5ml,94
+product_07.jpg,Women's Multi Vit & Mineral Food Supplement,Vitamin D3,vitamin_d,10,µg,2 capsules,200
+product_07.jpg,Women's Multi Vit & Mineral Food Supplement,Vitamin E,vitamin_e,12,mg,2 capsules,100
+product_07.jpg,Women's Multi Vit & Mineral Food Supplement,Vitamin K2,vitamin_k,75,µg,2 capsules,100
+product_07.jpg,Women's Multi Vit & Mineral Food Supplement,Vitamin C,vitamin_c,80,mg,2 capsules,100
+product_07.jpg,Women's Multi Vit & Mineral Food Supplement,Thiamin (Vitamin B1),vitamin_b1,1.1,mg,2 capsules,100
+product_07.jpg,Women's Multi Vit & Mineral Food Supplement,Riboflavin (Vitamin B2),vitamin_b2,1.4,mg,2 capsules,100
+product_07.jpg,Women's Multi Vit & Mineral Food Supplement,Niacin (Vitamin B3),vitamin_b3,16,mg,2 capsules,100
+product_07.jpg,Women's Multi Vit & Mineral Food Supplement,Vitamin B6,vitamin_b6,1.4,mg,2 capsules,100
+product_07.jpg,Women's Multi Vit & Mineral Food Supplement,Folic Acid,vitamin_b9,200,µg,2 capsules,100
+product_07.jpg,Women's Multi Vit & Mineral Food Supplement,Vitamin B12,vitamin_b12,2.5,µg,2 capsules,100
+product_07.jpg,Women's Multi Vit & Mineral Food Supplement,Biotin,vitamin_b7,50,µg,2 capsules,100
+product_07.jpg,Women's Multi Vit & Mineral Food Supplement,Pantothenic Acid,vitamin_b5,6,mg,2 capsules,100
+product_07.jpg,Women's Multi Vit & Mineral Food Supplement,Calcium,calcium,120,mg,2 capsules,15
+product_07.jpg,Women's Multi Vit & Mineral Food Supplement,Magnesium,magnesium,56,mg,2 capsules,15
+product_07.jpg,Women's Multi Vit & Mineral Food Supplement,Iron,iron,14,mg,2 capsules,100
+product_07.jpg,Women's Multi Vit & Mineral Food Supplement,Zinc,zinc,10,mg,2 capsules,100
+product_07.jpg,Women's Multi Vit & Mineral Food Supplement,Copper,copper,1,mg,2 capsules,100
+product_07.jpg,Women's Multi Vit & Mineral Food Supplement,Manganese,manganese,2,mg,2 capsules,100
+product_07.jpg,Women's Multi Vit & Mineral Food Supplement,Selenium,selenium,55,µg,2 capsules,100
+product_07.jpg,Women's Multi Vit & Mineral Food Supplement,Chromium,chromium,40,µg,2 capsules,100
+product_07.jpg,Women's Multi Vit & Mineral Food Supplement,Iodine,iodine,150,µg,2 capsules,100
+product_09.png,,Energy,energy,84,kJ,1 scoop (6.54g),1.0
+product_09.png,,Energy,energy,20,kcal,1 scoop (6.54g),1
+product_09.png,,Carbohydrate,total_carbohydrate,4,g,1 scoop (6.54g),2
+product_09.png,,Of which sugars,sugars,1,g,1 scoop (6.54g),1
+product_09.png,,Salt,salt,0.0375,g,1 scoop (6.54g),0.6
+product_09.png,,Potassium,potassium,120,mg,1 scoop (6.54g),6
+product_09.png,,Calcium,calcium,30,mg,1 scoop (6.54g),4
+product_09.png,,Iron,iron,0.8,mg,1 scoop (6.54g),6
+product_09.png,,Organic Wheat Grass Powder (North America),organic_wheat_grass_powder,3000,mg,1 scoop (6.54g),
+product_09.png,,Organic Alfalfa Leaf Powder (North America),organic_alfalfa_leaf_powder,1000,mg,1 scoop (6.54g),
+product_09.png,,Matcha Tea Leaf Powder (Japan),matcha_tea_leaf_powder,750,mg,1 scoop (6.54g),
+product_09.png,,Tart Cherry Skin,tart_cherry_skin,250,mg,1 scoop (6.54g),
+product_09.png,,Organic Jerusalem Artichoke Root Inulin,organic_jerusalem_artichoke_root_inulin,500,mg,1 scoop (6.54g),
+product_09.png,,Chicory Root,chicory_root,500,mg,1 scoop (6.54g),
+product_09.png,,Ashwagandha Root Extract (2.5% Withanolides),ashwagandha_root_extract,200,mg,1 scoop (6.54g),
+product_09.png,,"Rhodiola Root Extract (3% Rosavins, 2% Salidrosides)",rhodiola_root_extract,100,mg,1 scoop (6.54g),
+product_10.png,MINDGUARD,Vitamin B12,vitamin_b12,1000,µg,2 Capsules,40000
+product_10.png,MINDGUARD,Vitamin D3,vitamin_d,1000,IU,2 Capsules,500
+product_10.png,MINDGUARD,Nootropics,nootropics,,,2 Capsules,
+product_10.png,MINDGUARD,L-Theanine,l_theanine,200,mg,2 Capsules,
+product_10.png,MINDGUARD,Lion's Mane (Hericium erinaceus) 10:1,lions_mane,300,mg,2 Capsules,
+product_10.png,MINDGUARD,Ashwagandha (KSM-66®),ashwagandha,300,mg,2 Capsules,
+product_10.png,MINDGUARD,Bacopa Monnieri (Herb Extract),bacopa_monnieri,300,mg,2 Capsules,
+product_10.png,MINDGUARD,Panax Ginseng (Root),panax_ginseng,200,mg,2 Capsules,
+product_11.png,,Energy,energy,42,kJ,1 Softgel (1.2g),0.5
+product_11.png,,Energy,energy,10,kcal,1 Softgel (1.2g),0.5
+product_11.png,,Total Fat,total_fat,1.1,g,1 Softgel (1.2g),1.6
+product_11.png,,Of which Saturates,saturated_fat,0.1,g,1 Softgel (1.2g),0.5
+product_11.png,,Of which Monounsaturates,monounsaturated_fat,0.1,g,1 Softgel (1.2g),
+product_11.png,,Of which Polyunsaturates,polyunsaturated_fat,0.9,g,1 Softgel (1.2g),
+product_11.png,,Cholesterol,cholesterol,5,mg,1 Softgel (1.2g),1.7
+product_11.png,,Salt,salt,0.01,g,1 Softgel (1.2g),0.16
+product_11.png,,Total Omega-3 Fatty Acids,total_omega_3_fatty_acids,900,mg,1 Softgel (1.2g),
+product_11.png,,EPA (Eicosapentaenoic Acid) (rTG form),epa,500,mg,1 Softgel (1.2g),
+product_11.png,,DHA (Docosahexaenoic Acid) (rTG form),dha,250,mg,1 Softgel (1.2g),
+product_11.png,,Other Omega-3s,other_omega_3s,150,mg,1 Softgel (1.2g),
+product_11.png,,Vitamin E (as d-alpha tocopherol),vitamin_e,15,mg,1 Softgel (1.2g),125
+product_11.png,,Rosemary Extract (Rosmarinus officinalis),rosemary_extract,5,mg,1 Softgel (1.2g),
+product_12.png,,Energy,energy,42,kJ,1 Softgel (1.2g),0.5
+product_12.png,,Energy,energy,10,kcal,1 Softgel (1.2g),0.5
+product_12.png,,Total Fat,total_fat,1.1,g,1 Softgel (1.2g),1.6
+product_12.png,,Saturates,saturated_fat,0.1,g,1 Softgel (1.2g),0.5
+product_12.png,,Monounsaturates,monounsaturated_fat,0.1,g,1 Softgel (1.2g),
+product_12.png,,Polyunsaturates,polyunsaturated_fat,0.9,g,1 Softgel (1.2g),
+product_12.png,,EPA (rTG form),epa,500,mg,1 Softgel (1.2g),
+product_12.png,,DHA (rTG form),dha,250,mg,1 Softgel (1.2g),
+product_12.png,,Total Omega-3 Fatty Acids,total_omega_3_fatty_acids,900,mg,1 Softgel (1.2g),
+product_12.png,,Other Omega-3s,other_omega_3s,150,mg,1 Softgel (1.2g),
+product_12.png,,Cholesterol,cholesterol,5,mg,1 Softgel (1.2g),1.7
+product_12.png,,Salt,salt,0.1,g,1 Softgel (1.2g),0.16
+product_12.png,,Vitamin E (as d-alpha tocopherol),vitamin_e,15,mg,1 Softgel (1.2g),125
+product_12.png,,Rosemary Extract (Rosmarinus officinalis),rosemary_extract,5,mg,1 Softgel (1.2g),
+product_13.png,NordHerz Omega-3,Fischöl-Konzentrat,fish_oil_concentrate,1000,mg,2 Kapseln,
+product_13.png,NordHerz Omega-3,davon EPA,epa,330,mg,2 Kapseln,
+product_13.png,NordHerz Omega-3,davon DHA,dha,220,mg,2 Kapseln,
+product_13.png,NordHerz Omega-3,Vitamin E,vitamin_e,5,mg,2 Kapseln,42
